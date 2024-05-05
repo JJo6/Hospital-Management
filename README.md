@@ -4,7 +4,7 @@ Description:
 
 The Hospital Management System is a comprehensive web application designed to streamline and automate various administrative and operational tasks within a healthcare facility. Developed using Python with the Django framework, along with HTML and CSS for the front-end, this system provides a user-friendly interface for hospital staff to efficiently manage patient records, appointments, inventory, billing, and more.
 
-**Key Features:**
+## Key Features:
 
 **Patient Management:**
 Register and manage patient records including personal details, medical history, and insurance information.
@@ -35,7 +35,7 @@ Technology Stack:
 **2**-Run the development server: python manage.py runserver 
 **3**-Open a web browser and access the system at http://localhost:8000.
 
-**Deployment:**
+## Deployment:
 
 Deploy the application on a web server using platforms like Heroku, AWS, or DigitalOcean.
 Configure continuous integration and deployment pipelines for automated testing and updates.

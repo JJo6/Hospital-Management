@@ -28,6 +28,13 @@ Technology Stack:
 **Database:** SQLite, PostgreSQL (for production deployment)
 **Version Control:** Git
 
+**How to Use**
+1- Set up a virtual environment for your Python development.
+
+**1**-Install the project dependencies by running: pip install -r requirements.txt 
+**2**-Run the development server: python manage.py runserver 
+**3**-Open a web browser and access the system at http://localhost:8000.
+
 **Deployment:**
 
 Deploy the application on a web server using platforms like Heroku, AWS, or DigitalOcean.
